@@ -28,3 +28,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/SimplePlanesReflectionTools/*.Cache
+/SimplePlanesReflectionTools/Library
+/SimplePlanesReflectionTools/.vs
+/SimplePlanesReflectionTools/SimplePlanesReflectionTools.sln
+/SimplePlanesReflectionTools/SimplePlanesReflectionTools.CSharp.csproj
