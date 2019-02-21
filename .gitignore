@@ -30,6 +30,8 @@ sysinfo.txt
 *.unitypackage
 /SimplePlanesReflectionTools/*.Cache
 /SimplePlanesReflectionTools/Library
+/SimplePlanesReflectionTools/Temp
+/SimplePlanesReflectionTools/obj
 /SimplePlanesReflectionTools/.vs
 /SimplePlanesReflectionTools/SimplePlanesReflectionTools.sln
 /SimplePlanesReflectionTools/SimplePlanesReflectionTools.CSharp.csproj
